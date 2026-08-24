@@ -1,0 +1,125 @@
+{
+  "app": "fanta-pako",
+  "version": 1,
+  "exportedAt": "2026-08-24T15:18:29.877Z",
+  "picks": {},
+  "avail": {},
+  "teams": [
+    "Partizan Degrado (Raffaele)",
+    "Fantantonio (Gennaro)",
+    "Lombarda Team (Daniele)",
+    "Nicolas SSC (Luigi)",
+    "LosBomberos (Andrea)",
+    "Juveprimario (Giorgio)",
+    "Mandrake (Giampiero)",
+    "I Catalani (Giulio)",
+    "Forza India (Nicola)"
+  ],
+  "auction": {
+    "active": false,
+    "order": [
+      "P",
+      "D",
+      "C",
+      "A"
+    ],
+    "role": "P",
+    "letters": {
+      "P": "",
+      "D": "C",
+      "C": "",
+      "A": ""
+    },
+    "onlyRec": false,
+    "onlyRendimento": true
+  },
+  "myStrategyRosterA": [
+    {
+      "r": "P",
+      "n": "Carnesecchi",
+      "p": 56
+    },
+    {
+      "r": "P",
+      "n": "Sportiello",
+      "p": 2
+    },
+    {
+      "r": "P",
+      "n": "Vismara",
+      "p": 2
+    },
+    {
+      "r": "P",
+      "n": "Muric",
+      "p": 6
+    },
+    {
+      "r": "D",
+      "n": "Bremer",
+      "p": 47
+    },
+    {
+      "r": "D",
+      "n": "Bastoni",
+      "p": 47
+    },
+    {
+      "r": "D",
+      "n": "Ndicka",
+      "p": 34
+    },
+    {
+      "r": "D",
+      "n": "Mina",
+      "p": 23
+    },
+    {
+      "r": "D",
+      "n": "Cambiaso",
+      "p": 34
+    },
+    {
+      "r": "D",
+      "n": "Ahanor",
+      "p": 6
+    },
+    {
+      "r": "D",
+      "n": "Ostigard",
+      "p": 36
+    },
+    {
+      "r": "D",
+      "n": "Ramon",
+      "p": 29
+    },
+    {
+      "r": "D",
+      "n": "Kristensen",
+      "p": 14
+    },
+    {
+      "r": "D",
+      "n": "Bellanova",
+      "p": 23
+    }
+  ],
+  "myStrategyRosterB": [
+    {
+      "r": "P",
+      "n": "Radunovic",
+      "p": 2
+    },
+    {
+      "r": "P",
+      "n": "Sherri",
+      "p": 39
+    },
+    {
+      "r": "P",
+      "n": "Caprile",
+      "p": 22
+    }
+  ]
+}
