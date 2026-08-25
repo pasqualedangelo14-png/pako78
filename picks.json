@@ -1,81 +1,8 @@
 {
   "app": "fanta-pako",
   "version": 1,
-  "exportedAt": "2026-08-25T19:30:41.010Z",
-  "picks": {
-    "Hermoso|Roma": {
-      "status": "mine",
-      "price": "23"
-    },
-    "Kalulu|Juventus": {
-      "status": "mine",
-      "price": "38"
-    },
-    "Kelly L.|Juventus": {
-      "status": "mine",
-      "price": "10"
-    },
-    "Kempf|Como": {
-      "status": "mine",
-      "price": "25"
-    },
-    "Kristensen|Atalanta": {
-      "status": "mine",
-      "price": "13"
-    },
-    "Mancini|Roma": {
-      "status": "mine",
-      "price": "50"
-    },
-    "Rugani|Juventus": {
-      "status": "mine",
-      "price": "4"
-    },
-    "Bisseck|Inter": {
-      "status": "mine",
-      "price": "67"
-    },
-    "Chalobah|Como": {
-      "status": "mine",
-      "price": "28"
-    },
-    "Carnesecchi|Atalanta": {
-      "status": "mine",
-      "price": "60"
-    },
-    "Sportiello|Atalanta": {
-      "status": "mine",
-      "price": "1"
-    },
-    "Vismara|Atalanta": {
-      "status": "mine",
-      "price": "1"
-    },
-    "Gaetano|Atalanta": {
-      "status": "mine",
-      "price": "13"
-    },
-    "Isaksen|Lazio": {
-      "status": "mine",
-      "price": "24"
-    },
-    "Locatelli|Juventus": {
-      "status": "mine",
-      "price": "19"
-    },
-    "Nico Paz|Como": {
-      "status": "mine",
-      "price": "163"
-    },
-    "Vergara|Napoli": {
-      "status": "mine",
-      "price": "10"
-    },
-    "Baturina|Como": {
-      "status": "mine",
-      "price": "41"
-    }
-  },
+  "exportedAt": "2026-08-25T21:01:59.540Z",
+  "picks": {},
   "avail": {},
   "teams": [
     "Partizan Degrado (Raffaele)",
@@ -96,18 +23,18 @@
       "C",
       "A"
     ],
-    "role": "C",
+    "role": "D",
     "letters": {
       "P": "C",
-      "D": "F",
-      "C": "",
+      "D": "E",
+      "C": "A",
       "A": ""
     },
     "onlyRec": false,
     "onlyRendimento": false,
     "pointer": {
       "P": "Di Gennaro|Inter",
-      "D": "Bracaglia|Frosinone",
+      "D": "Kelly L.|Juventus",
       "C": "Colombo L.|Monza",
       "A": "Adams A.|Venezia"
     }
@@ -118,39 +45,39 @@
     "Ostigard|Genoa": 2,
     "Cambiaso|Juventus": 1,
     "Ndicka|Roma": 1,
-    "Bisseck|Inter": 0,
+    "Bisseck|Inter": 1,
     "Scalvini|Atalanta": 1,
     "Kempf|Como": 2,
     "Carlos Augusto|Inter": 2,
     "Delprato|Parma": 3,
-    "Mina|Cagliari": 3,
-    "Sutalo|Lazio": 3,
+    "Mina|Cagliari": 2,
+    "Sutalo|Lazio": 2,
     "Badiashile|Napoli": 2,
-    "Kristensen|Atalanta": 3,
+    "Kristensen|Atalanta": 2,
     "Coco|Torino": 4,
     "Valle|Como": 2,
-    "Romagnoli|Lazio": 3,
+    "Romagnoli|Lazio": 2,
     "Zortea|Bologna": 4,
     "Kossounou|Atalanta": 6,
-    "Joao Mario|Fiorentina": 4,
-    "Comuzzo|Torino": 3,
-    "Rensch|Roma": 3,
-    "Ahanor|Atalanta": 4,
+    "Joao Mario|Fiorentina": 3,
+    "Comuzzo|Torino": 2,
+    "Rensch|Roma": 2,
+    "Ahanor|Atalanta": 3,
     "Zanoli|Udinese": 7,
     "Kelly L.|Juventus": 6,
-    "Martin|Genoa": 2,
+    "Martin|Genoa": 4,
     "Miranda J.|Bologna": 2,
-    "Bellanova|Atalanta": 4,
-    "Gabbia|Milan": 4,
-    "Hermoso|Roma": 0,
+    "Bellanova|Atalanta": 3,
+    "Gabbia|Milan": 3,
+    "Hermoso|Roma": 1,
     "Gila|Milan": 1,
-    "Molina|Roma": 1,
-    "Akanji|Inter": 1,
-    "Zappacosta|Atalanta": 1,
-    "Bartesaghi|Milan": 4,
+    "Molina|Roma": 0,
+    "Akanji|Inter": 0,
+    "Zappacosta|Atalanta": 3,
+    "Bartesaghi|Milan": 3,
     "Spinazzola|Napoli": 1,
-    "Valeri|Parma": 3,
-    "Tiago Gabriel|Lecce": 3,
+    "Valeri|Parma": 2,
+    "Tiago Gabriel|Lecce": 2,
     "Norton-Cuffy|Genoa": 4,
     "Hien|Atalanta": 4,
     "Dodò|Fiorentina": 3,
@@ -248,12 +175,25 @@
     "David|Juventus": 4,
     "Davis|Udinese": 0,
     "Rrahmani|Napoli": 2,
-    "Vasquez|Genoa": 1,
-    "Chalobah|Como": 1,
-    "Obert|Cagliari": 2,
+    "Vasquez|Genoa": 2,
+    "Chalobah|Como": 2,
+    "Obert|Cagliari": 3,
     "Kamara H.|Udinese": 4,
     "Milla|Como": 4,
-    "Thuram|Inter": 1
+    "Thuram|Inter": 1,
+    "Bastoni|Inter": 0,
+    "Di Lorenzo|Napoli": 1,
+    "Mancini|Roma": 1,
+    "Kalulu|Juventus": 1,
+    "Stones|Inter": 2,
+    "Ramon|Como": 2,
+    "Dragusin|Fiorentina": 3,
+    "Doekhi|Lazio": 2,
+    "Buongiorno|Napoli": 3,
+    "Tomori|Milan": 4,
+    "Beukema|Napoli": 5,
+    "Pavard|Inter": 5,
+    "Valdepenas|Fiorentina": 3
   },
   "myFasceChoices": {
     "Carnesecchi|Atalanta": true,
@@ -366,6 +306,21 @@
     "Stulic|Lecce": true,
     "Lucca|Napoli": true,
     "Castro S.|Roma": true,
-    "Pinamonti|Sassuolo": true
+    "Pinamonti|Sassuolo": true,
+    "Spence|Inter": true,
+    "Ndicka|Roma": true,
+    "Stones|Inter": true,
+    "Ramon|Como": true,
+    "Bastoni|Inter": true,
+    "Dodò|Fiorentina": true,
+    "Di Lorenzo|Napoli": true,
+    "Kalulu|Juventus": true,
+    "Valeri|Parma": true,
+    "Romagnoli|Lazio": true,
+    "Valle|Como": true,
+    "Miranda J.|Bologna": true,
+    "Valdepenas|Fiorentina": true,
+    "Coco|Torino": true,
+    "Zortea|Bologna": true
   }
 }
