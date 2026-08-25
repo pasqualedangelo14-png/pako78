@@ -1,7 +1,7 @@
 {
   "app": "fanta-pako",
   "version": 1,
-  "exportedAt": "2026-08-24T15:18:29.877Z",
+  "exportedAt": "2026-08-25T07:08:03.450Z",
   "picks": {},
   "avail": {},
   "teams": [
@@ -23,7 +23,7 @@
       "C",
       "A"
     ],
-    "role": "P",
+    "role": "A",
     "letters": {
       "P": "",
       "D": "C",
@@ -31,95 +31,142 @@
       "A": ""
     },
     "onlyRec": false,
-    "onlyRendimento": true
+    "onlyRendimento": false
   },
-  "myStrategyRosterA": [
-    {
-      "r": "P",
-      "n": "Carnesecchi",
-      "p": 56
-    },
-    {
-      "r": "P",
-      "n": "Sportiello",
-      "p": 2
-    },
-    {
-      "r": "P",
-      "n": "Vismara",
-      "p": 2
-    },
-    {
-      "r": "P",
-      "n": "Muric",
-      "p": 6
-    },
-    {
-      "r": "D",
-      "n": "Bremer",
-      "p": 47
-    },
-    {
-      "r": "D",
-      "n": "Bastoni",
-      "p": 47
-    },
-    {
-      "r": "D",
-      "n": "Ndicka",
-      "p": 34
-    },
-    {
-      "r": "D",
-      "n": "Mina",
-      "p": 23
-    },
-    {
-      "r": "D",
-      "n": "Cambiaso",
-      "p": 34
-    },
-    {
-      "r": "D",
-      "n": "Ahanor",
-      "p": 6
-    },
-    {
-      "r": "D",
-      "n": "Ostigard",
-      "p": 36
-    },
-    {
-      "r": "D",
-      "n": "Ramon",
-      "p": 29
-    },
-    {
-      "r": "D",
-      "n": "Kristensen",
-      "p": 14
-    },
-    {
-      "r": "D",
-      "n": "Bellanova",
-      "p": 23
-    }
-  ],
-  "myStrategyRosterB": [
-    {
-      "r": "P",
-      "n": "Radunovic",
-      "p": 2
-    },
-    {
-      "r": "P",
-      "n": "Sherri",
-      "p": 39
-    },
-    {
-      "r": "P",
-      "n": "Caprile",
-      "p": 22
-    }
-  ]
+  "tierOverrides": {
+    "Pavlovic|Milan": 0,
+    "Solet|Udinese": 0,
+    "Ostigard|Genoa": 0,
+    "Cambiaso|Juventus": 0,
+    "Ndicka|Roma": 0,
+    "Bisseck|Inter": 0,
+    "Scalvini|Atalanta": 0,
+    "Kempf|Como": 1,
+    "Carlos Augusto|Inter": 2,
+    "Delprato|Parma": 3,
+    "Mina|Cagliari": 2,
+    "Sutalo|Lazio": 3,
+    "Badiashile|Napoli": 2,
+    "Kristensen|Atalanta": 3,
+    "Coco|Torino": 4,
+    "Valle|Como": 2,
+    "Romagnoli|Lazio": 3,
+    "Zortea|Bologna": 4,
+    "Kossounou|Atalanta": 6,
+    "Joao Mario|Fiorentina": 4,
+    "Comuzzo|Torino": 3,
+    "Rensch|Roma": 3,
+    "Ahanor|Atalanta": 4,
+    "Zanoli|Udinese": 7,
+    "Kelly L.|Juventus": 6,
+    "Martin|Genoa": 2,
+    "Miranda J.|Bologna": 2,
+    "Bellanova|Atalanta": 4,
+    "Gabbia|Milan": 4,
+    "Hermoso|Roma": 0,
+    "Gila|Milan": 2,
+    "Molina|Roma": 1,
+    "Akanji|Inter": 1,
+    "Zappacosta|Atalanta": 1,
+    "Bartesaghi|Milan": 4,
+    "Spinazzola|Napoli": 1,
+    "Valeri|Parma": 3,
+    "Tiago Gabriel|Lecce": 3,
+    "Norton-Cuffy|Genoa": 4,
+    "Hien|Atalanta": 4,
+    "Dodò|Fiorentina": 3,
+    "Messias|Genoa": 3,
+    "Loftus-Cheek|Milan": 3,
+    "Ricci S.|Milan": 3,
+    "Cataldi|Lazio": 3,
+    "De Roon|Atalanta": 3,
+    "Keita M.|Parma": 3,
+    "Mkhitaryan|Inter": 11,
+    "Nicolussi Caviglia|Parma": 3,
+    "Coulibaly L.|Lecce": 2,
+    "Volpato|Sassuolo": 3,
+    "Adzic|Sassuolo": 3,
+    "Pisilli|Roma": 1,
+    "Pellegrini Lo.|Roma": 3,
+    "Thuram K.|Juventus": 1,
+    "Chukwueze|Milan": 3,
+    "Frendrup|Genoa": 2,
+    "Calò|Frosinone": 3,
+    "Busio|Venezia": 3,
+    "Ndour|Fiorentina": 3,
+    "Locatelli|Juventus": 1,
+    "Zalewski|Atalanta": 2,
+    "Cambiaghi|Bologna": 2,
+    "Diego Moreira|Milan": 1,
+    "Baturina|Como": 0,
+    "Da Cunha|Como": 0,
+    "Rabiot|Milan": 0,
+    "Zaniolo|Udinese": 0,
+    "Barella|Inter": 0,
+    "Vlasic|Torino": 0,
+    "Rowe|Bologna": 0,
+    "McKennie|Juventus": 0,
+    "Conceicao|Juventus": 0,
+    "Ederson|Atalanta": 2,
+    "Samardzic|Atalanta": 3,
+    "Zielinski|Inter": 0,
+    "Koné|Roma": 0,
+    "Modric|Milan": 1,
+    "Caqueret|Como": 1,
+    "Saelemaekers|Milan": 1,
+    "Zambo Anguissa|Napoli": 2,
+    "Perrone|Como": 2,
+    "Andy Diouf|Inter": 1,
+    "Casadei|Torino": 4,
+    "Fagioli|Fiorentina": 2,
+    "Thorstvedt|Sassuolo": 2,
+    "Gaetano|Atalanta": 2,
+    "Isaksen|Lazio": 2,
+    "Bernabè|Parma": 2,
+    "Frattesi|Lazio": 2,
+    "Bernardeschi|Bologna": 2,
+    "Pasalic|Atalanta": 2,
+    "Odgaard|Bologna": 3,
+    "Gudmundsson A.|Fiorentina": 2,
+    "Taylor K.|Lazio": 3,
+    "Rodriguez Je.|Como": 4,
+    "Konè I.|Sassuolo": 1,
+    "Cristante|Roma": 2,
+    "Mandragora|Fiorentina": 3,
+    "Baldanzi|Genoa": 3,
+    "Ekkelenkamp|Udinese": 2,
+    "Ferguson|Bologna": 3,
+    "Cancellieri|Lazio": 4,
+    "Ellertsson|Genoa": 7,
+    "Dovbyk|Bologna": 0,
+    "Santos Alisson|Napoli": 1,
+    "Esposito Se.|Cagliari": 1,
+    "Laurientè|Sassuolo": 1,
+    "Piccoli|Bologna": 0,
+    "Adams C.|Torino": 2,
+    "Zapata D.|Torino": 2,
+    "Nkunku|Milan": 2,
+    "Raimondo|Frosinone": 3,
+    "Stulic|Lecce": 2,
+    "Neres|Napoli": 1,
+    "Lucca|Napoli": 2,
+    "Santos A.|Napoli": 2,
+    "Castro S.|Roma": 2,
+    "Giovane|Napoli": 4,
+    "Elphege|Parma": 5,
+    "Kulenovic|Torino": 4,
+    "Kvernadze|Frosinone": 4,
+    "Maldini|Cagliari": 4,
+    "Vitinha|Genoa": 2,
+    "Kevin Carlos|Cagliari": 1,
+    "Pinamonti|Sassuolo": 4,
+    "Pellegrino|Fiorentina": 1,
+    "De Ketelaere|Atalanta": 1,
+    "Colombo|Genoa": 1,
+    "Politano|Napoli": 1,
+    "Cutrone|Monza": 1,
+    "Soulé|Roma": 1,
+    "David|Juventus": 4,
+    "Davis|Udinese": 0
+  }
 }
