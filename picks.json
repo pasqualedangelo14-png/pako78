@@ -1,7 +1,7 @@
 {
   "app": "fanta-pako",
   "version": 1,
-  "exportedAt": "2026-09-02T21:40:07.547Z",
+  "exportedAt": "2026-09-02T23:42:36.549Z",
   "picks": {
     "Maignan|Milan": {
       "status": "other",
@@ -940,6 +940,386 @@
       "status": "other",
       "price": "1",
       "team": "Juveprimario (Giorgio)"
+    },
+    "Mastantuono|Fiorentina": {
+      "status": "other",
+      "price": "33",
+      "team": "Mandrake (Giampiero)"
+    },
+    "McKennie|Juventus": {
+      "status": "other",
+      "price": "5",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "McTominay|Napoli": {
+      "status": "other",
+      "price": "66",
+      "team": "Fantantonio (Gennaro)"
+    },
+    "Mkhitaryan|Inter": {
+      "status": "other",
+      "price": "1",
+      "team": "Forza India (Nicola)"
+    },
+    "Modric|Milan": {
+      "status": "other",
+      "price": "6",
+      "team": "Lombarda Team (Daniele)"
+    },
+    "Mora|Roma": {
+      "status": "other",
+      "price": "75",
+      "team": "I Catalani (Giulio)"
+    },
+    "Moreira|Milan": {
+      "status": "other",
+      "price": "28",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Orsolini|Bologna": {
+      "status": "other",
+      "price": "46",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Pasalic|Atalanta": {
+      "status": "other",
+      "price": "1",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Paz N.|Como": {
+      "status": "other",
+      "price": "150",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Perrone|Como": {
+      "status": "other",
+      "price": "16",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Pisilli|Roma": {
+      "status": "other",
+      "price": "1",
+      "team": "Lombarda Team (Daniele)"
+    },
+    "Politano|Napoli": {
+      "status": "other",
+      "price": "30",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Pulisic|Milan": {
+      "status": "other",
+      "price": "115",
+      "team": "Partizan Degrado (Raffaele)"
+    },
+    "Rabiot|Milan": {
+      "status": "other",
+      "price": "90",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Rodriguez Je.|Como": {
+      "status": "other",
+      "price": "7",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Rowe|Atalanta": {
+      "status": "other",
+      "price": "51",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Saelemaekers|Milan": {
+      "status": "other",
+      "price": "3",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Samardzic|Atalanta": {
+      "status": "other",
+      "price": "20",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Sucic P.|Inter": {
+      "status": "other",
+      "price": "9",
+      "team": "Lombarda Team (Daniele)"
+    },
+    "Taylor K.|Lazio": {
+      "status": "other",
+      "price": "5",
+      "team": "I Catalani (Giulio)"
+    },
+    "Thorstvedt|Sassuolo": {
+      "status": "other",
+      "price": "1",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Vergara|Napoli": {
+      "status": "other",
+      "price": "7",
+      "team": "Fantantonio (Gennaro)"
+    },
+    "Vlasic|Torino": {
+      "status": "other",
+      "price": "36",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Schmid|Frosinone": {
+      "status": "other",
+      "price": "1",
+      "team": "Partizan Degrado (Raffaele)"
+    },
+    "Odgaard|Bologna": {
+      "status": "other",
+      "price": "1",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Milla|Como": {
+      "status": "other",
+      "price": "1",
+      "team": "Partizan Degrado (Raffaele)"
+    },
+    "Geubbels|Lecce": {
+      "status": "other",
+      "price": "12",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Ghedjemis|Frosinone": {
+      "status": "other",
+      "price": "1",
+      "team": "Fantantonio (Gennaro)"
+    },
+    "Gnonto|Fiorentina": {
+      "status": "other",
+      "price": "8",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Hojlund|Napoli": {
+      "status": "other",
+      "price": "200",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Kean|Como": {
+      "status": "other",
+      "price": "145",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Kevin Carlos|Cagliari": {
+      "status": "mine",
+      "price": "20"
+    },
+    "Kolo Muani|Juventus": {
+      "status": "other",
+      "price": "156",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Krstovic|Atalanta": {
+      "status": "other",
+      "price": "46",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Lang|Napoli": {
+      "status": "other",
+      "price": "1",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Laurientè|Sassuolo": {
+      "status": "other",
+      "price": "38",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Lucca|Napoli": {
+      "status": "other",
+      "price": "15",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Maldini|Cagliari": {
+      "status": "mine",
+      "price": "23"
+    },
+    "Malen|Roma": {
+      "status": "other",
+      "price": "395",
+      "team": "Partizan Degrado (Raffaele)"
+    },
+    "Martinez L.|Inter": {
+      "status": "other",
+      "price": "310",
+      "team": "I Catalani (Giulio)"
+    },
+    "Neres|Napoli": {
+      "status": "other",
+      "price": "18",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Ngonge|Monza": {
+      "status": "other",
+      "price": "1",
+      "team": "Partizan Degrado (Raffaele)"
+    },
+    "Nzola|Cagliari": {
+      "status": "other",
+      "price": "1",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Pellegrino M.|Fiorentina": {
+      "status": "other",
+      "price": "80",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Piccoli|Bologna": {
+      "status": "other",
+      "price": "10",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Pinamonti|Lazio": {
+      "status": "other",
+      "price": "92",
+      "team": "Forza India (Nicola)"
+    },
+    "Raimondo|Frosinone": {
+      "status": "other",
+      "price": "70",
+      "team": "Fantantonio (Gennaro)"
+    },
+    "Ramos G.|Milan": {
+      "status": "mine",
+      "price": "395"
+    },
+    "Thuram|Inter": {
+      "status": "other",
+      "price": "182",
+      "team": "Lombarda Team (Daniele)"
+    },
+    "Tourè E.|Parma": {
+      "status": "other",
+      "price": "1",
+      "team": "I Catalani (Giulio)"
+    },
+    "Varela G.|Monza": {
+      "status": "other",
+      "price": "29",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Vitinha O.|Genoa": {
+      "status": "other",
+      "price": "20",
+      "team": "Forza India (Nicola)"
+    },
+    "Woltemade|Juventus": {
+      "status": "other",
+      "price": "90",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Yeboah J.|Venezia": {
+      "status": "other",
+      "price": "4",
+      "team": "I Catalani (Giulio)"
+    },
+    "Yildiz|Juventus": {
+      "status": "other",
+      "price": "8",
+      "team": "I Catalani (Giulio)"
+    },
+    "Adams A.|Venezia": {
+      "status": "other",
+      "price": "4",
+      "team": "Lombarda Team (Daniele)"
+    },
+    "Adams C.|Torino": {
+      "status": "other",
+      "price": "7",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Berardi|Sassuolo": {
+      "status": "other",
+      "price": "100",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Beto|Fiorentina": {
+      "status": "other",
+      "price": "155",
+      "team": "Forza India (Nicola)"
+    },
+    "Boga|Juventus": {
+      "status": "other",
+      "price": "3",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Bonny|Inter": {
+      "status": "other",
+      "price": "20",
+      "team": "I Catalani (Giulio)"
+    },
+    "Borrelli|Cagliari": {
+      "status": "mine",
+      "price": "1"
+    },
+    "Bowie|Sassuolo": {
+      "status": "other",
+      "price": "3",
+      "team": "Lombarda Team (Daniele)"
+    },
+    "Castro S.|Roma": {
+      "status": "other",
+      "price": "46",
+      "team": "LosBomberos (Andrea)"
+    },
+    "Colombo|Genoa": {
+      "status": "other",
+      "price": "25",
+      "team": "I Catalani (Giulio)"
+    },
+    "Cutrone|Monza": {
+      "status": "other",
+      "price": "2",
+      "team": "Partizan Degrado (Raffaele)"
+    },
+    "Davis K.|Udinese": {
+      "status": "other",
+      "price": "100",
+      "team": "I Catalani (Giulio)"
+    },
+    "De Ketelaere|Atalanta": {
+      "status": "other",
+      "price": "25",
+      "team": "Nicolas SSC (Luigi)"
+    },
+    "Diao|Como": {
+      "status": "other",
+      "price": "15",
+      "team": "Mandrake (Giampiero)"
+    },
+    "Douvikas|Como": {
+      "status": "other",
+      "price": "83",
+      "team": "Fantantonio (Gennaro)"
+    },
+    "Dovbyk|Bologna": {
+      "status": "other",
+      "price": "70",
+      "team": "Forza India (Nicola)"
+    },
+    "Dybala|Roma": {
+      "status": "other",
+      "price": "73",
+      "team": "Lombarda Team (Daniele)"
+    },
+    "Elphege|Parma": {
+      "status": "mine",
+      "price": "3"
+    },
+    "Esposito F.P.|Inter": {
+      "status": "other",
+      "price": "70",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Esposito Se.|Sassuolo": {
+      "status": "other",
+      "price": "41",
+      "team": "Juveprimario (Giorgio)"
+    },
+    "Mendy P.|Cagliari": {
+      "status": "other",
+      "price": "1",
+      "team": "I Catalani (Giulio)"
     }
   },
   "avail": {},
@@ -962,20 +1342,20 @@
       "C",
       "A"
     ],
-    "role": "C",
+    "role": "A",
     "letters": {
       "P": "M",
       "D": "D",
       "C": "W",
-      "A": "C"
+      "A": "F"
     },
     "onlyRec": false,
     "onlyRendimento": false,
     "pointer": {
       "P": "Christensen O.|Fiorentina",
       "D": "Moreno M.|Venezia",
-      "C": "Lipani|Sassuolo",
-      "A": "Camarda|Milan"
+      "C": "Pasalic|Atalanta",
+      "A": "Birligea|Frosinone"
     }
   },
   "tierOverrides": {
